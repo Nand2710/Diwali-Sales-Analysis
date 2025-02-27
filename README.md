@@ -58,10 +58,9 @@ The Jupyter Notebook (Diwali_Sales_Analysis.ipynb) includes the following steps:
 3. Execute the cells sequentially to perform the analysis.
 
 ## Insights Gained
-
-    - Identification of the highest-spending customer segments.
-    - Analysis of sales trends across different states and demographics.
-    - Insights into the most popular product categories during Diwali.
+- Identification of the highest-spending customer segments.
+- Analysis of sales trends across different states and demographics.
+- Insights into the most popular product categories during Diwali.
 
 ## Conclusion
 
